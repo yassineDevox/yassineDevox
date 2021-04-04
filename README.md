@@ -1,6 +1,6 @@
 <h1> Hi, I'm Rassy Yassine! <img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="40"></h1>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/kD0h8GnLNiQNJJsyCs/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://www.3wa.fr/">3wa</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://www.3wa.fr/">3wa</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: yassine](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)

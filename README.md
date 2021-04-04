@@ -5,7 +5,6 @@ succeeding in them.</p>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://www.3wa.fr/">3wa</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-Hello, I am Yassine.
 
 
 

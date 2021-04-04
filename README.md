@@ -1,12 +1,13 @@
 <h1> Hi, I'm Rassy Yassine! <img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="40"></h1>
+<p>A passionate and enthusiastic web and mobile developer with 4+ years of experience.
+I love new challenges and new projects in which I can invest all my skills and experience into
+succeeding in them.</p>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://www.3wa.fr/">3wa</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 Hello, I am Yassine.
 
-A passionate and enthusiastic web and mobile developer with 4+ years of experience.
-I love new challenges and new projects in which I can invest all my skills and experience into
-succeeding in them.
+
 
 [![GitHub yassine](https://img.shields.io/github/followers/yassineDevox?label=follow&style=social)](https://github.com/yassineDevox)
 

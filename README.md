@@ -3,7 +3,6 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://www.3wa.fr/">3wa</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: yassine](https://www.linkedin.com/in/yassine-rassy-a53bb417b/)](https://www.linkedin.com/in/yassinerassy/)
 [![GitHub yassine](https://img.shields.io/github/followers/yassineDevox?label=follow&style=social)](https://github.com/yassineDevox)
 
 

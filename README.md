@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://www.3wa.fr/">3wa</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: yassine](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rassyyassine/)](https://www.linkedin.com/in/yassinerassy/)
-[![GitHub yassine](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/YassineDevox)
+[![Linkedin: yassine](https://media-exp1.licdn.com/dms/image/C4D03AQGUQVrjph5oyg/profile-displayphoto-shrink_100_100/0/1602976989682?e=1623283200&v=beta&t=S_wnnkvYbrYCkXB13tIVSY68rpYiDbuWLnbASnL69lA)](https://www.linkedin.com/in/yassinerassy/)
+[![GitHub yassine](https://img.shields.io/github/followers/yassineDevox?label=follow&style=social)](https://github.com/yassineDevox)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

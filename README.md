@@ -17,9 +17,9 @@ const rassy = {
   frameworks : [ React/Redux, Angular/Vue, SpringBoot, Laravel, Express ],
   architecture: [ "microservices", "monolight", "TDD" ],
   work as : {
-                        freelancer : "fiver, upwork, malt,",
-                        coach online : "3wa, apprentus",
-                      },
+              freelancer : "fiver, upwork, malt,",
+              coach online : "3wa, apprentus",
+            },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```

@@ -19,11 +19,11 @@ const rassy = {
   pronouns: "he" | "him",
   code: [ Javascript, Typescript, HTML, CSS, Java, Php ],
   stack: [ Mearn, Mean, Angular/Java, Laravel/Vue/React ],
-  frameworks : [ React/Redux, Angular/Vue, SpringBoot, Laravel, Express ],
-  architecture: [ "microservices", "monolight", "TDD" ],
+  frameworks & libs : [ React/Redux, Angular/Vue, SpringBoot, Laravel, Express ],
+  architecture: [ "Microservices", "Monolight", "TDD" ],
   work as : {
-              freelancer : "fiver, upwork, malt,",
-              coach online : "3wa, apprentus",
+              freelancer : "fiver, upwork, malt",
+              coach online : "3wa, apprentus, GoMyCode",
             },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }

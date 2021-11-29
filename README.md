@@ -3,7 +3,7 @@
 I love new challenges and new projects in which I can invest all my skills and experience into
 succeeding in them.</p>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://www.3wa.fr/">3wa</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://gomycode.com/MA-FR/home/">GoMyCode</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 

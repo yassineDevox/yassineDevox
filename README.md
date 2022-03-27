@@ -1,6 +1,6 @@
 <h1> Hi, I'm Rassy Yassine! <img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="40"></h1>
 <p>A passionate and enthusiastic web and mobile developer with 4+ years of experience.
-I love new challenges and new projects in which I can invest all my skills and experience into
+I love deal with new challenges and in which I can invest all my skills and experience into
 succeeding in them.</p>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Hassan 2</a> <img src="https://media.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif" width="30"></br>Web Developer and Coach at <a href="https://www.freelancer.com/">Freelancer</a>,<a href="https://gomycode.com/MA-FR/home/">GoMyCode</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -17,13 +17,13 @@ succeeding in them.</p>
 ```javascript
 const rassy = {
   pronouns: "he" | "him",
-  code: [ Javascript, Typescript, HTML, CSS, Java, Php ],
-  stack: [ Mearn, Mean, Angular/Java, Laravel/Vue/React ],
-  frameworks & libs : [ React/Redux, Angular/Vue, SpringBoot, Laravel, Express ],
-  architecture: [ "Microservices", "Monolight", "TDD" ],
+  code: [ Javascript, Typescript, HTML, CSS, Java ],
+  stack: [ Mern, Mers ],
+  frameworks & libs : [ React/Redux, Node/Express ],
+  architecture: [ "SPA", "TDD" ],
   work as : {
               freelancer : "fiver, upwork, malt",
-              coach online : "3wa, apprentus, GoMyCode",
+              coach online : "Apprentus, GoMyCode",
             },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }

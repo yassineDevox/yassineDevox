@@ -17,10 +17,10 @@ succeeding in them.</p>
 ```javascript
 const rassy = {
   pronouns: "he" | "him",
-  code: [ Javascript, Typescript, HTML, CSS, Java ],
+  code: [ Javascript, Java, C++ ],
   stack: [ Mern, Mers ],
   frameworks & libs : [ Redux, Node/Express, React/Next ],
-  architecture: [ "SPA", "TDD", "SSR","SSG" ],
+  architecture: [ "SPA", "TDD | DDD", "SSR","SSG" ],
   work as : {
               freelancer : "fiver, upwork, malt, Morocco",
               coach online : "Apprentus, GoMyCode, Udacity",
